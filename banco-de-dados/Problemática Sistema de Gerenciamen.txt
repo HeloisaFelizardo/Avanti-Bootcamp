@@ -1,0 +1,3 @@
+Problemática: Sistema de Gerenciamento de Vendas em uma Loja de Varejo
+
+Uma loja de varejo deseja melhorar seu sistema de gerenciamento de vendas para lidar com um grande volume de transações diárias. Atualmente, eles usam métodos manuais para registrar vendas, gerenciar estoques e rastrear informações sobre produtos e clientes. Eles enfrentam desafios como a falta de precisão nos registros de vendas, dificuldade em manter o controle do estoque de produtos. O objetivo é desenvolver um sistema de banco de dados que permita à loja registrar eficientemente vendas, produtos, clientes, atualizar o estoque de produtos, rastrear informações sobre produtos vendidos e clientes. 
